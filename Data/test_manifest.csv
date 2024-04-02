@@ -1,0 +1,5 @@
+sample-id,absolute-filepath,direction
+7958a-3480_S25_L001,Data/Metagenome_sequences/7958a-3480_S25_L001_R1_001.fastq.gz,forward
+7958a-3480_S25_L001,Data/Metagenome_sequences/7958a-3480_S25_L001_R2_001.fastq.gz,reverse
+7958a-3481_S26_L001,Data/Metagenome_sequences/7958a-3481_S26_L001_R1_001.fastq.gz,forward
+7958a-3481_S26_L001,Data/Metagenome_sequences/7958a-3481_S26_L001_R2_001.fastq.gz,reverse
